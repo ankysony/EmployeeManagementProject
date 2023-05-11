@@ -7,7 +7,7 @@ Employee Management project is a web application which manages the data of emplo
 
 ## Author
 
-- [@ankysony](https://www.github.com/octokatherine)
+- [@ankysony](https://www.github.com/ankysony)
 
 
 ## Deployment
